@@ -1,1 +1,1 @@
-This repository serves as an private image hosting service.
+This repository serves as a private image hosting service.
